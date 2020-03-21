@@ -70,6 +70,12 @@
                         </div>
                     </form>
                 </div>
+                <div class="card-footer">
+                    <a href="{{ url('login/facebook') }}" class="btn btn-social btn-facebook">
+                        <i class="fab fa-facebook-f"></i>
+                        Sign Up with Facebook
+                    </a>
+                </div>
             </div>
         </div>
     </div>

@@ -1,0 +1,4 @@
+Extending Laravel with First Party Packages
+
+https://www.udemy.com/course/extending-laravel-with-first-party-packages/
+
